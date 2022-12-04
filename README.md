@@ -1,8 +1,8 @@
-# Autores : Bruno Henrique Menezes Ramos e André Felipe da Costa.
+# 2DSM-ATV_TP
          
 Lista 03 - Hooks
 
-# 2DSM-ATV_TP
+
 
 Manual de instalação
 
@@ -16,3 +16,6 @@ Manual de instalação
 - Lista 3:
     npm install
     npm start
+
+
+# Autores : Bruno Henrique Menezes Ramos e André Felipe da Costa.
